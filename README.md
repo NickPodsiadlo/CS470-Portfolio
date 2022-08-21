@@ -1,3 +1,3 @@
 # CS470-Portfolio
 
-Please reference the final reflection PDF file which contains a link to the Final presentation and my reflection.
+Please reference the Final Reflection PDF file which contains a link to my video presentation and reflection.
